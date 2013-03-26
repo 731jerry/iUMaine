@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>m-basebl</key>
+	<string>Baseball</string>
+	<key>m-baskbl</key>
+	<string>Men's Basketball</string>
+	<key>m-footbl</key>
+	<string>Football</string>
+	<key>m-hockey</key>
+	<string>Men's Ice Hockey</string>
+	<key>w-baskbl</key>
+	<string>Women's Basketball</string>
+	<key>w-fieldh</key>
+	<string>Field Hockey</string>
+	<key>w-hockey</key>
+	<string>Women's Ice Hockey</string>
+	<key>w-soccer</key>
+	<string>Women's Soccer</string>
+	<key>w-softbl</key>
+	<string>Softball</string>
+    <key>mxc</key>
+    <string>Men's Cross Country</string>
+    <key>golf</key>
+    <string>Men's Golf</string>
+    <key>mlax</key>
+    <string>Men's Lacrosse</string>
+    <key>skiing</key>
+    <string>Ski and Snowboarding</string>
+    <key>msoc</key>
+    <string>Men's Soccer</string>
+    <key>wxc</key>
+    <string>Women's Cross Country</string>
+    <key>wlax</key>
+    <string>Women's Lacrosse</string>
+    <key>wvball</key>
+    <string>Women's Volleyball</string>
+</dict>
+</plist>
